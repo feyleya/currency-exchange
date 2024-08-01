@@ -1,0 +1,2 @@
+# Путь к базе данных (укажите свой абсолютный путь)
+database.path=src/main/resources/database.sqlite
